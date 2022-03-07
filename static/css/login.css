@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/zj_login_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;             /* 兼容Webkit内核浏览器如Chrome和Safari */
+}
+
+.login_div{
+    margin: 10% 30%;
+    border: solid black;
+    border-radius: 15px;
+    text-align: center;
+    background-color: gray;
+    /*margin: 50%;*/
+}
+
+li{
+    list-style-type: none;
+}
